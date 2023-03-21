@@ -1,0 +1,33 @@
+
+html{
+    background: url('cover.jpg') no-repeat center center fixed;
+    background-size: cover;
+    /*background-image: linear-gradient(to left, #50cc7f 0%, #f5d100 100%);*/
+    height:100%;
+}
+
+body{
+    background: none;
+    height:100%;
+
+}
+.container {
+    text-align: center;
+    width: 480px;
+}
+#signupform{
+    display:none;
+}
+input{
+    margin:20px 0px;
+}
+#homePageContainer{
+    margin-top: 200px;
+}
+#diary{
+    height:100%;
+    width:100%;
+}
+.container-fluid{
+    height:100%;
+}
