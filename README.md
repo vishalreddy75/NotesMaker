@@ -21,7 +21,7 @@
 
 7. give a database name as (notes) hit on create button.
 
-8. after creating database name create a table with name users
+8. after creating database name create a table with name (users)
 
 9. open any browser and type http://localhost/login.php.
 
